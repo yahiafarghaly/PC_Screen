@@ -8,3 +8,10 @@ without worrying about UART driver. You can use my [abstracted APIs](https://git
 
 
 [Demo video of the software](https://www.youtube.com/watch?v=lFj07h4J7v4&feature=youtu.be)
+
+
+### Constrains 
+
+- Baud Rate: 9600
+- stopbits: 1
+- parity: none
